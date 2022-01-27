@@ -9,7 +9,7 @@ My goal in the near future is to start taking a new courses to broaden my horiso
 
 - 👀 
 I’m interested in everything about Web Development. I want to find a way to be better developer. 
-I ccomplished a programming course of HTML/CSS and enrolled into online course for Front-end Developer (HTML/CSS, JavaScript).
+I accomplished a programming course of HTML/CSS and enrolled into online course for Front-end Developer (HTML/CSS, JavaScript).
 I'm try to learn every day. I make mistakes, but learn from them.
 
 
