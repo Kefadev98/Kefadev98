@@ -21,7 +21,7 @@ If there is a problem that need's to be adressed I will do my best to fulfill my
 
 
 - 📫 
-stefankovacic4@gmail.com
+stefankovacic4@gmail.com <br>
 +387 66/876-771
 Gradiska 78400, Bosnia and Herzegovina
 
