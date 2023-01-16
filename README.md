@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I'm 24 years old. Graduated Computer Scientist ( Specialist in the field of Computer Engineering), with 240 ECTS credits. I'm a hardworking and highly adaptive person. I don't like leaving any work unfinished. I'm a self motivated and dedicated to my work and i can handle the pressure that comes with every job. I consider myself a team player. I would be more than happy to work in a dynamic environment of a well developed team of people where everyone is playing their roles which leads to greater overall progress. I specialize in building mobile responsive Front-end UI applications that connect with API’s and other backend technologies. I am proficient in building front-end applications using HTML, CSS, Javascript, and React.
+
 
 * 🌍  I'm based in Gradiška 78400, Bosnia and Herzegovina
 * 🖥️  See my portfolio at [github.com/Kefadev98/entertainment-web-app](http://github.com/Kefadev98/entertainment-web-app)
