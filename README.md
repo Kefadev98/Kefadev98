@@ -7,7 +7,7 @@ Frontend Developer
 
 
 * 🌍  I'm based in Gradiška 78400, Bosnia and Herzegovina
-* 🖥️  See my portfolio at [github.com/Kefadev98/entertainment-web-app](http://github.com/Kefadev98/entertainment-web-app)
+* 🖥️  See my portfolio at [https://github.com/Kefadev98/stefan-web-portfolio](https://github.com/Kefadev98/stefan-web-portfolio)
 * ✉️  You can contact me at [stefankovacic4@gmail.com](mailto:stefankovacic4@gmail.com)
 * 🧠  I'm learning React, Typescript, Chakra UI, React-Redux
 
