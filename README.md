@@ -5,7 +5,7 @@ Frontend Developer
 ------------------
 
 *   🌍  I'm based in Gradiška, Bosnia and Herzegovina
-*   🖥️  See my portfolio at [https://github.com/Kefadev98/stefan-web-portfolio](http://github.com/Kefadev98/stefan-web-portfolio)
+*   🖥️  See my portfolio at [https://stefan-web-portfolio.vercel.app/](https://stefan-web-portfolio.vercel.app/)
 *   ✉️  You can contact me at [stefankovacic4@gmail.com](mailto:stefankovacic4@gmail.com)
 *   🧠  I'm learning HTML, CSS, Javascript, Typescript, React, NextJS### Skills 
 <p align="left">
