@@ -6,7 +6,7 @@ Frontend Developer
 
 
 
-* 🌍  I'm based in Gradiška 78400, Bosnia and Herzegovina
+* 🌍  I'm based in Gradiška, Bosnia and Herzegovina
 * 🖥️  See my portfolio at [https://github.com/Kefadev98/stefan-web-portfolio](https://github.com/Kefadev98/stefan-web-portfolio)
 * ✉️  You can contact me at [stefankovacic4@gmail.com](mailto:stefankovacic4@gmail.com)
 * 🧠  I'm learning React, Typescript, Chakra UI, React-Redux
@@ -36,4 +36,8 @@ Frontend Developer
 
 <b>Top Repositories</b>
 
+<div width="100%" align="center"><a href="https://github.com/Kefadev98/cryptocurrency-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kefadev98&repo=entertainment-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Kefadev98/real-estate-app-nextjs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kefadev98&repo=entertainment-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <div width="100%" align="center"><a href="https://github.com/Kefadev98/entertainment-web-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kefadev98&repo=entertainment-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Kefadev98/shopping-cart" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Kefadev98&repo=entertainment-web-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
